@@ -10,7 +10,7 @@ const Footer = () => {
           For any technical issues, difficulties accessing the web app, or assistance with our online features, please contact our Technical Support team:
           <br />
           <br />
-          Email: support@gymwebapp.com
+          Email: techinnovatorshub@gmail.com
           <br /> 
           Phone: +1 555-123-4567
           </p>
