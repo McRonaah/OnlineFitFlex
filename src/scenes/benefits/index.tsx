@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Experience our cutting-edge facilities equipped with the latest fitness equipment and technology. From spacious workout areas to specialized studios, our state-of-the-art facilities are designed to provide you with a premium fitness experience. Train in a modern and inspiring environment that will elevate your workouts and help you achieve your fitness goals",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Choose from our wide selection of diverse fitness classes catering to all levels and interests. Whether you're into high-intensity workouts, yoga, or specialized training, our extensive class offerings ensure there's something for everyone. Join our vibrant community and discover the perfect class to challenge yourself, have fun, and achieve your fitness goals.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Train with our team of expert and professional trainers who are dedicated to helping you reach your fitness goals. With their knowledge, experience, and personalized guidance, you'll receive top-notch instruction and support. Our trainers are committed to pushing you beyond your limits and ensuring you achieve remarkable results on your fitness journey.",
   },
 ];
 
@@ -131,18 +131,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Join our gym and become one of the millions of happy members who are transforming their lives through fitness. Our state-of-the-art facilities, diverse range of classes, and expert trainers provide the perfect environment to reach your health and wellness goals. Experience the support, motivation, and camaraderie of our vibrant community as you embark on a journey to a stronger, healthier, and happier you.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              We take pride in the millions of satisfied members who are getting fit, improving their well-being, and embracing an active lifestyle. Experience the positive energy and motivation that comes from being part of our fitness family.
               </p>
             </motion.div>
 

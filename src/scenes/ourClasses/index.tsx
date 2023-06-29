@@ -13,7 +13,7 @@ const classes: Array<ClassType> = [
   {
     name: "Weight Training Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Build strength and sculpt your body with our weight training classes led by experienced instructors. Learn proper techniques, enhance muscle tone, and achieve your fitness goals through effective and challenging weight-based workouts.",
     image: image1,
   },
   {
@@ -23,13 +23,13 @@ const classes: Array<ClassType> = [
   {
     name: "Ab Core Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Join our Ab Core classes to strengthen and tone your core muscles. Led by our experienced instructors, these classes offer targeted exercises and techniques to help you achieve a stronger, more defined midsection and improve overall stability.",
     image: image3,
   },
   {
     name: "Adventure Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Embark on thrilling fitness adventures with our Adventure Classes. Led by experienced trainers, these classes combine outdoor activities, teamwork, and challenges to provide an exhilarating and unique fitness experience that pushes your limits and fosters camaraderie.",
     image: image4,
   },
   {
@@ -39,7 +39,7 @@ const classes: Array<ClassType> = [
   {
     name: "Training Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Take your fitness journey to the next level with our comprehensive training classes. Led by expert trainers, these classes combine diverse workout techniques and personalized guidance to help you achieve optimal results and exceed your fitness goals.",
     image: image6,
   },
 ];
@@ -68,10 +68,7 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+            Discover a wide variety of classes designed to suit all fitness levels and interests. From high-energy workouts to mindful practices, we have something for everyone on their fitness journey.
             </p>
           </div>
         </motion.div>
